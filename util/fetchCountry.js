@@ -18,7 +18,7 @@ const fetchData = async () => {
   
   
       // Handle the data as needed
-      console.log(`country name : ${body.location.country.name}`)
+      // console.log(`country name : ${body.location.country.name}`)
     
       return body.location.country.name;
     } catch (error) {

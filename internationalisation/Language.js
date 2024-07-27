@@ -10,12 +10,12 @@ var element1 , element2 , element3 , placeholder;
 
 // const country = getCountry();
 var country = await fetchData().then((country) => {
-    console.log(country)
+    // console.log(country)
     return country
 })
 
 
-console.log(country)
+// console.log(country)
 
 if(country.includes("France")){
     element1 = French.element1
@@ -45,6 +45,6 @@ else{
     placeholder = English.placeholder
 }
 
-console.log(element1)
+// console.log(element1)
 
 export default {element1,element2,element3,placeholder}
