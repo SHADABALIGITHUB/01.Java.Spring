@@ -1,0 +1,17 @@
+1. JDK
+2. JVM
+3. Simple code jshell
+4. How java works 
+5. Variables in java 
+6. Data types (total 8 (primitive))  int ,float,double,long ,char,Boolean,byte,short
+7. literals
+8. Type conversion 
+9. operator  (assignment, Relational, comparsion, logical)
+10. if else  / ternary  / Switch 
+11 loop  while for do while
+12  classes and object theory 
+13 Methods -> overloading 
+14. stack heap allocation of memory 
+15. Array 1d ,2d  enchanced loop (foreach loop)
+16. jagged array / array of object 
+17 String 
