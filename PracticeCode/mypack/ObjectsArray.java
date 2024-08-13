@@ -1,4 +1,4 @@
-package mypack;
+package PracticeCode.mypack;
 class Student{
      
         int rollno;

@@ -1,4 +1,4 @@
-package mypack;
+package PracticeCode.mypack;
 class AnotherClass{
 
     int data;

@@ -1,4 +1,4 @@
-package mypack;
+package PracticeCode.mypack;
 class User{
     private int company;
     private String name;

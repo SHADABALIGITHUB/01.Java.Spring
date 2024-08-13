@@ -1,4 +1,4 @@
-package mypack;
+package PracticeCode.mypack;
 public class Constructor {
     private String n;
     Constructor(String name){

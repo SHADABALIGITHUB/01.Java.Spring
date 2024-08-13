@@ -15,3 +15,11 @@
 15. Array 1d ,2d  enchanced loop (foreach loop)
 16. jagged array / array of object 
 17 String 
+18 String buffer 
+20  Java multiline string 
+21  Staic key ,static method static block , static variable 
+22  inheritance 
+23  constructor ,this , super , default paremeterize constructor 
+24  Encapsulation ,getter ,setter 
+25  Inheritance , package , access modifiers
+26   
