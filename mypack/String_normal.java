@@ -1,4 +1,7 @@
-package Starting_code;
+package mypack;
+
+//  string 
+
 public class String_normal {
 
     public static void main(String[] args) {
