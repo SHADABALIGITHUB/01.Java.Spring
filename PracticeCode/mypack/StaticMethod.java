@@ -28,7 +28,7 @@ public class StaticMethod {
         obj1.data=2300;
     
 
-        AnotherClass obj2=new AnotherClass();
+        // AnotherClass obj2=new AnotherClass();
 
         AnotherClass.start();
 

@@ -12,7 +12,7 @@ public class Constructor {
     }
     public static void main(String[] args) {
         
-         Constructor ob=new Constructor("make");
+        //  Constructor ob=new Constructor("make");
 
          System.out.println();
 

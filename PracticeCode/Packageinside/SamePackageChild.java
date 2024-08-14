@@ -1,5 +1,5 @@
 package PracticeCode.Packageinside;
-import PracticeCode.Packageinside.Parent;
+
 
 public class SamePackageChild {
 

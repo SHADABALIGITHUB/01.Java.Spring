@@ -2,7 +2,7 @@ package PracticeCode.packageOut;
 
 import PracticeCode.Packageinside.Parent;
 
-public class Ousidechild{
+public class Ousidechild extends Parent{
 
      public static void main(String[] args) {
 
