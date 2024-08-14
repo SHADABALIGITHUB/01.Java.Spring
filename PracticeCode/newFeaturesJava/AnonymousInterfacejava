@@ -1,0 +1,45 @@
+interface A{
+   void theValue();
+       
+}
+
+
+//  class B implements A{
+
+//     public void theValue(){
+//         System.out.println("I am from B");
+          
+//     }
+
+
+
+    
+    
+// }
+
+public class  Hello{
+    public static void main(String[] args) {
+
+        // B obj=new B();
+        // obj.theValue();
+        // 1.)
+
+        //    A obj=new A(){
+        //       public void theValue(){
+        //         System.out.println("i am base class");
+        //       }
+        //    };
+        //    obj.theValue();
+        //  2.)
+
+        //  3.)
+           new A(){
+            public void theValue(){
+              System.out.println("i am base class");
+            }
+         }.theValue();
+         
+        
+    }
+    
+}
